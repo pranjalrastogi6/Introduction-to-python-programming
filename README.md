@@ -2,6 +2,10 @@
 
 # Colab Link 
 --> https://colab.research.google.com/drive/1g6b0g6Qi5zaNF361HsG5ceaBf8esTTAh?usp=sharing
+
+# Project Explanation Video (Some type of question)
+--> https://drive.google.com/file/d/1BX8viyZVqtlRV5mW5LlktR_nDt45dFMs/view?usp=sharing
+
 I have solved all questions in this project or repository
 
 ### About the Project:
